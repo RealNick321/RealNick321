@@ -1,7 +1,7 @@
 ## Hi There! Welcome to my GitHub page! 👋
 
 ![Paris Profile Photo ](https://github.com/user-attachments/assets/2a910d42-4807-44a2-a571-8c1505adf41c)
-![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealNick321&show_icons=true&theme=radical)
+![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealNick321&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealNick321&layout=pie)](https://github.com/RealNick321/github-readme-stats)
 
 A Little About Me:
   I'm
