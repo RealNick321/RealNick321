@@ -1,10 +1,13 @@
 ## Hi There!👋
 
-  I'm a UC Berkeley grad switching from Finance to Coding, specifically Back-End Development. I'm getting a second Bachelors degree @ Oregon State University in CS w/ a Minor in Math. I'm really passionate about Formal Verification, ML for Math, and Automata!
+  I'm a UC Berkeley grad switching from Finance to Coding, specifically Back-End Development. I'm getting a 2nd Bachelors degree @ Oregon State University in CS w/ a Minor in Math. I'm really passionate about Formal Verification, ML for Math, and Automata!
 
   :computer:Currently I'm working on my personal website
   
-  :open_book: I'm also learning Data Structures & Algorithms
+  :open_book: I'm also learning about Data Structures & Algorithms
+
+
+![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealNick321&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealNick321&layout=pie)](https://github.com/RealNick321/github-readme-stats)
 
 _______________________________________________________________________________________________________________________________________________________________________________________
 
@@ -44,6 +47,3 @@ ________________________________________________________________________________
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
-  ___________________________________________________________________________________________________________________________________________________________________________________
-
-![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealNick321&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealNick321&layout=pie)](https://github.com/RealNick321/github-readme-stats)
