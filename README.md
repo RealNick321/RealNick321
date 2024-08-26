@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi There! Welcome to my GitHub page! 👋
+
+![Paris Profile Photo ](https://github.com/user-attachments/assets/2a910d42-4807-44a2-a571-8c1505adf41c)
+
+
+
 
 <!--
-**RealNick321/RealNick321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
