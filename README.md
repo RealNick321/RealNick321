@@ -14,7 +14,7 @@ ________________________________________________________________________________
 ## Technologies I Use:
 
 **Languages:**
-  <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}"/>
+  ![image]({(https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)})
 **Frameworks:**
 **Databases:**
 **Cloud:**
