@@ -11,12 +11,10 @@
 
 _______________________________________________________________________________________________________________________________________________________________________________________
 
-## Technologies I Use:
+## Technologies I'd Like To Learn:
 
 **:studio_microphone:Languages:**
 
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,5 +45,13 @@ ________________________________________________________________________________
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+_______________________________________________________________________________________________________________________________________________________________________________________
+## Technologies I Use:
+
+**:studio_microphone:Languages:**
+
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
