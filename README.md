@@ -1,6 +1,6 @@
 ## Hi There!👋
 
-  I'm a UC Berkeley graduate switching from Finance to Coding, specifically Back-End Development. I'm getting a 2nd Bachelors degree @ Oregon State University in CS w/ a Minor in Math. I'm really passionate about Formal Verification, ML for Math, and Automata!
+  I'm a UC Berkeley graduate switching from Finance to Coding. I'm getting a 2nd Bachelors degree @ Oregon State University in CS w/ a Minor in Math. I'm really passionate about Formal Verification, ML for Math, and Automata!
 
   :computer:Currently I'm working on my personal website
   
