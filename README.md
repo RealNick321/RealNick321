@@ -7,7 +7,7 @@
   :open_book: I'm also learning about Data Structures & Algorithms
 
 
-![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealNick321&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealNick321&layout=pie)](https://github.com/RealNick321/github-readme-stats)
+![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealNick321&show_icons=true&theme=radical&cache_seconds=14400&v=2)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealNick321&layout=pie&cache_seconds=144000&v=2)](https://github.com/RealNick321/github-readme-stats)
 
 _______________________________________________________________________________________________________________________________________________________________________________________
 
